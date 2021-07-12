@@ -1,0 +1,6 @@
+name: CommandMessages
+version: ${project.version}
+main: me.fullpage.commandmessages.CommandMessages
+prefix: CommandMessages
+authors: [ Fullpage ]
+description: Displays a message when running a command

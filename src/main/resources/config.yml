@@ -1,0 +1,18 @@
+# Made by Fullpage#4782
+'discord':
+  message:
+    - "&6________.[ &2Server Discord &6].______"
+    - "&ehttps://discord.gg/"
+'apply':
+  message:
+    - "&6________.[ &2Applications &6].______"
+    - "&eApply by joining our discord"
+    - "&ehttps://discord.gg/"
+'media':
+  message:
+    - "&6________.[ &2Media Links &6].______"
+    - "&ePut media links here"
+'links':
+  message:
+    - "&6________.[ &2Links &6].______"
+    - "&ePut links here"

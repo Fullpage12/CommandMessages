@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Archived/ServerDiscordBot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Commisions/gmz/MainStream-DiscordBot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Commisions/hq/FacExtras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Commisions/rawthic/LinkingPlugin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Commisions/rawthic/discordbot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ManticHoes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Private/OlliesCore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Server_Bot/Server_Bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SuperiorSkyblock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mantic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/FactionTrench" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/PocketOceans" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/discordbot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/public/radon" vcs="Git" />
+  </component>
+</project>
