@@ -2,6 +2,7 @@ package me.fullpage.commandmessages.listeners;
 
 import me.fullpage.commandmessages.CommandMessages;
 import me.fullpage.commandmessages.data.Config;
+import me.fullpage.commandmessages.hooks.PlaceholderAPIHook;
 import org.bukkit.ChatColor;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.Player;
@@ -38,18 +39,13 @@ public class EventWaiter implements Listener {
 
             List<String> message = config.getStringList(key + ".message");
             for (String msg : message) {
+                if (new PlaceholderAPIHook().getPlaceholderAPI())
+                    msg = new PlaceholderAPIHook().setPlaceholders(player, msg);
                 player.sendMessage(ChatColor.translateAlternateColorCodes('&', msg));
             }
 
 
-
-
-
-
         }
-
-
-
 
 
     }
